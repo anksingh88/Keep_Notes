@@ -1,4 +1,3 @@
-# Notes_App
  NodeJS Mini Project
  
 Add note -> Requires user to enter Title and Body of the note and adds the note to our databse (json file)
